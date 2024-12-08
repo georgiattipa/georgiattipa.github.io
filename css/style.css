@@ -3,7 +3,7 @@ h1 {
 }
 
 .ikonaproti{
-	width: 70%;
+	width: 60%;
 	height: 70%;
 
 
@@ -11,6 +11,41 @@ h1 {
 
 .ikonadeuteri{
 
+	width: 50%;
+	height:70%;
+}
+
+.ikonatriti{
 	width: 60%;
 	height:70%;
+}
+
+.ikonatetarti{
+
+	width: 60%;
+	height:70%;
+}
+
+
+.ikonapempti{
+	width: 60%;
+	height:70%;
+}
+
+.ikonaekti{
+	width: 60%;
+	height:70%;
+}
+
+.container{
+	background: #FFFFCC80;
+}
+
+.logia{
+	background-color: #ff9d5c;
+}
+
+h1{ 
+	color:#ff9d5c;
+
 }
